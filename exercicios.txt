@@ -1,0 +1,72 @@
+📌 Lista de Exercícios – Funções em C
+🔹 Parte 1 – Funções Simples (introdução)
+
+1.Crie uma função que receba um número inteiro e retorne o dobro dele.
+
+2.Escreva uma função que receba dois números inteiros e retorne o maior deles.
+
+3.Implemente uma função que receba um número inteiro e verifique se ele é par ou ímpar.
+
+4.Crie uma função que receba um caractere e retorne 1 se for vogal, 0 caso contrário.
+
+5.Faça uma função que receba um número e retorne o seu valor absoluto.
+
+🔹 Parte 2 – Operações Matemáticas
+
+6.Escreva uma função que calcule o fatorial de um número.
+
+7.Crie uma função que receba dois números e retorne o MDC (máximo divisor comum).
+
+8.Implemente uma função que receba dois números e retorne o MMC (mínimo múltiplo comum).
+
+9.Crie uma função que calcule a potência de um número inteiro (base^expoente).
+
+10.Escreva uma função que receba um número inteiro e retorne a soma de todos os números de 1 até ele.
+
+🔹 Parte 3 – Arrays e Strings com Funções
+
+11.Faça uma função que receba um vetor de inteiros e retorne a soma de todos os elementos.
+
+12.Escreva uma função que receba um vetor e retorne o maior valor presente nele.
+
+13.Crie uma função que receba um vetor e retorne o menor valor.
+
+14.Implemente uma função que receba um vetor e retorne a média aritmética dos elementos.
+
+15.Escreva uma função que receba uma string e conte quantas vogais ela possui.
+
+🔹 Parte 4 – Modularização
+
+16.Crie uma função que imprima um menu simples e outra que leia a escolha do usuário.
+
+17.Faça uma função que receba um número inteiro e retorne 1 se for primo, 0 caso contrário.
+
+18.Implemente uma função que receba um número inteiro e imprima todos os primos até ele.
+
+19.Escreva uma função que receba um número e retorne a soma de seus dígitos.
+
+20.Crie uma função que inverta uma string (sem usar funções prontas como strrev).
+
+🔹 Parte 5 – Funções com Ponteiros
+
+21.Crie uma função que troque o valor de duas variáveis inteiras (passagem por referência).
+
+22.Faça uma função que receba um vetor e retorne, via ponteiros, o maior e menor elemento.
+
+23.Implemente uma função que ordene um vetor de inteiros usando o algoritmo Bubble Sort.
+
+24.Crie uma função que receba um vetor e retorne a quantidade de números pares e ímpares nele.
+
+25.Escreva uma função que calcule o produto escalar entre dois vetores.
+
+🔹 Parte 6 – Aplicações Mais Práticas
+
+26.Escreva uma função que calcule a área de um círculo (use π = 3.14).
+
+27.Crie uma função que calcule a área de um triângulo dado base e altura.
+
+28.Implemente uma função que converta temperaturas de Celsius para Fahrenheit.
+
+29.Faça uma função que verifique se uma palavra é palíndromo.
+
+30.Crie uma função que simule uma calculadora simples, recebendo dois números e a operação (+, -, *, /).
